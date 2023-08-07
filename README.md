@@ -15,4 +15,4 @@ is considerably lower than that of an LDO regulator with P-MOSFET.
 
 For the operational amplifier i have designed the folded cascode configuration, pmos as the pass devies and for varying load current ipwl from Analog library has been used.
 
-Folded cascode Opamp :  Folded cascode op amp has been used in the opamp , the gain of the opamp is found to be 40dB
+Folded cascode Opamp :  Folded cascode op amp has been used in the opamp and the single stage configuration will be used , the gain of the opamp is found to be around 40dB.
