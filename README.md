@@ -17,3 +17,4 @@ For the operational amplifier i have designed the folded cascode configuration, 
 
 Folded cascode Opamp :  Folded cascode op amp has been used in the opamp and the single stage configuration will be used , the gain of the opamp is found to be around 40dB.
 The PMOS transistors have been used as the pass transistor but in large number from tsmc N65nm technology(pch_lvt) and the resistors, capacitors are taken from the analog library.
+the droop voltage depends upon the Current variation i.e more the current variation the more the droop voltage will be.
